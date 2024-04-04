@@ -9,7 +9,7 @@ Apresentação
 
 - 🔭 I’m currently working on a project: **AI Applied To The Stock Market**
 
-- 🌱 I’m currently learning **Node.js and Python for Data Sciense**
+- 🌱 I’m currently learning **Python for Data Science**
 
 - 📫 How to reach me **enzofiorelli201@gmail.com**
 
