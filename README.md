@@ -22,7 +22,7 @@ Dashs de atividade
   
 <div>
 <img align="left" width=50% src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
-<img alifn="right" width=47% src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
+<img alifn="right" width=47.5% src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
 </div>
 
 <!--
