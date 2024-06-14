@@ -21,18 +21,11 @@ Dashs de atividade
 <br>
   
 <div>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
+<img heigth="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
+<img heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
 </div>
 
-<!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzofiorelli&bg_color=000000&color=00FF00&line=00FF00&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
-<!--
-Links de perfil
--->
-<div>
+<div style="display: inline_block"><br>
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://twitter.com/ehorelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehorelli" height="30" width="40" /></a>
@@ -64,7 +57,7 @@ Links de perfil
 <div/>
           
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><h3>Visitors Count</h3></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{enzofiorelli}/count.svg" /></p> 
 <br></div>
 
