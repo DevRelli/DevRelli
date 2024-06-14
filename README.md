@@ -21,8 +21,8 @@ Dashs de atividade
 <br>
   
 <div align="center">
-<img heigth="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
-<img heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
+<img heigth="180em" src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
 </div>
 
 <div style="display: inline_block"><br>
