@@ -20,9 +20,9 @@ Dashs de atividade
 -->
 
 <div  align="center" style="margin-bottom:100px">
-<img align="right"  src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
- </div>
+</div>
 
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzofiorelli&bg_color=000000&color=00FF00&line=00FF00&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -31,8 +31,8 @@ Dashs de atividade
 <!--
 Links de perfil
 -->
+<div align="left">
 <h3 align="left">Connect with me:</h3>
-<div align="left">  
 <p>
 <a href="https://twitter.com/ehorelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehorelli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/enzofiorelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzofiorelli" height="30" width="40" /></a>
