@@ -20,8 +20,8 @@ Dashs de atividade
 -->
 
 <div  align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
-<img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
+<img width=30% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
+<img width=30% align="center" src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
  </div>
 
 <!--
