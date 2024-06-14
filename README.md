@@ -2,6 +2,7 @@
 Apresentação
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Enzo+Fiorelli+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzofiorelli&show_icons=true&locale=en&layout=compact&theme=radical" alt="enzofiorelli" />
@@ -19,7 +20,7 @@ Apresentação
 Dashs de atividade
 -->
 
-<div  align="center" style="margin-bottom:100px">
+<div>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
 </div>
