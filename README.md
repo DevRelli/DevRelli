@@ -20,6 +20,8 @@ Apresentação
 Dashs de atividade
 -->
 
+<p>
+
 <div>
 <img align="left" width=35% src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
 <img alifn="right" width=35% src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
