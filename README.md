@@ -4,9 +4,7 @@ Apresentação
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Enzo+Fiorelli+;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzofiorelli&show_icons=true&locale=en&layout=compact&theme=radical" alt="enzofiorelli" />
-</div>
 
 - 🔭 I’m currently working on a project: **AI Applied To The Stock Market**
 
@@ -19,9 +17,10 @@ Apresentação
 <!--
 Dashs de atividade
 -->
-
+<br>
 <p>
-
+<br>
+  
 <div>
 <img align="left" width=35% src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
 <img alifn="right" width=35% src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
