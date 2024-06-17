@@ -6,11 +6,11 @@ Apresentação
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Enzo+Fiorelli+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevRelli&show_icons=true&locale=en&layout=compact&theme=radical" alt="DevRelli" />
 
-- 🔭 I’m currently working on a project: **AI Applied To The Stock Market**
+- 🔭 I’m currently working on a project: **Machine Learning Analysis Applied in Stocks**
 
-- 🌱 I’m currently learning **Python for Data Science**
+- 🌱 I’m currently learning **Python and Node.js for Automations and API's Services**
 
-- 📫 How to reach me **enzofiorelli201@gmail.com**
+- 📫 How to reach me **enzofiorelli@hotmail.com**
 
 - 📄 Know about my experiences [linkedin](linkedin)
 
