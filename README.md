@@ -4,7 +4,7 @@ Apresentação
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Enzo+Fiorelli+;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzofiorelli&show_icons=true&locale=en&layout=compact&theme=radical" alt="enzofiorelli" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevRelli&show_icons=true&locale=en&layout=compact&theme=radical" alt="DevRelli" />
 
 - 🔭 I’m currently working on a project: **AI Applied To The Stock Market**
 
@@ -21,8 +21,8 @@ Dashs de atividade
 <br>
   
 <div align="center">
-<img heigth="180em" width=50% src="https://github-readme-streak-stats.herokuapp.com?user=enzofiorelli&theme=radical&mode=weekly" />
-<img heigth="180em" width=47.25% src="https://github-readme-stats.vercel.app/api?username=enzofiorelli&show_icons=true&locale=en&theme=radical" alt="enzofiorelli" />
+<img heigth="180em" width=50% src="https://github-readme-streak-stats.herokuapp.com?user=DevRelli&theme=radical&mode=weekly" />
+<img heigth="180em" width=47.25% src="https://github-readme-stats.vercel.app/api?username=DevRelli&show_icons=true&locale=en&theme=radical" alt="DevRelli" />
 </div>
 
 <div style="display: inline_block"><br>
