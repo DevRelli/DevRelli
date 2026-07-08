@@ -4,11 +4,6 @@ Apresentação
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Enzo+Fiorelli+;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevRelli&show_icons=true&locale=en&layout=compact&theme=radical" alt="DevRelli" />
-
-- 🔭 I’m currently working on a project: **Machine Learning Analysis Applied in Stocks**
-
-- 🌱 I’m currently learning **Python and Node.js for Automations and API's Services**
 
 - 📫 How to reach me **enzofiorelli@hotmail.com**
 
@@ -16,13 +11,8 @@ Apresentação
 
 <!--
 Dashs de atividade
--->
-
-<br>
-  
+-->  
 <div align="center">
-<img heigth="180em" width=50% src="https://github-readme-streak-stats.herokuapp.com?user=DevRelli&theme=radical&mode=weekly" />
-<img heigth="180em" width=47.25% src="https://github-readme-stats.vercel.app/api?username=DevRelli&show_icons=true&locale=en&theme=radical" alt="DevRelli" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -55,11 +45,6 @@ Dashs de atividade
 <img width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <div/>
-          
-<div align="center">
-<br><p align="centre"><h3>Visitors Count</h3></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{enzofiorelli}/count.svg" /></p> 
-<br></div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevRelli&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
