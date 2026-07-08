@@ -45,7 +45,3 @@ Dashs de atividade
 <img width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <div/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevRelli&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
-</p>
